@@ -6,3 +6,4 @@ We want to create a pull request to merge this file into main
 I am adding this to file1 on the new branch
 
 Updating same line in file1 from main branch
+Added this from new branch to file1 on line 8
